@@ -1,0 +1,5 @@
+[
+  "tests/test_vigenere.py::TestVigenere::test_basic",
+  "tests/test_vigenere.py::TestVigenere::test_empty",
+  "tests/test_vigenere.py::TestVigenere::test_type_error"
+]
